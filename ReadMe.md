@@ -22,7 +22,7 @@ make sure to create volume for your image & point to it
 
 
 TO run maven command use below command
-`mvn --s .\settings.xml clean install > maven_output.txt`
+`mvn --s .\local_maven_settings.xml clean install > maven_output.txt`
 
 If you use  spring-maven-test 
 
